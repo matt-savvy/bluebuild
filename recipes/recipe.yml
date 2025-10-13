@@ -50,6 +50,7 @@ modules:
           - com.brave.Browser
           - org.gnome.Loupe
           - org.gnome.Evince
+          - org.gnome.clocks
           - com.spotify.Client
           - com.bitwarden.desktop
       - scope: user # Also add Flathub user repo, but no user packages
