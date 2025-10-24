@@ -34,6 +34,7 @@ modules:
         - rg
         - fzf
         - tldr
+        - direnv
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
